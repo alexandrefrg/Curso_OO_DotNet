@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_5", "exec_prop_1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_6", "exec_prop_1\exec_prop_6\exec_prop_6.csproj", "{B72B0459-91AA-4234-91CB-BA8462C59FE4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exec_Estrutura_Condicional", "Exec_Estrutura_Condicional", "{9C25AAF6-D902-4B48-9389-2C3056ED243A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_1", "exec_prop1\exec_prop_1.csproj", "{0A038878-14EF-4E55-80AB-8ECE7815A249}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -63,6 +67,10 @@ Global
 		{B72B0459-91AA-4234-91CB-BA8462C59FE4}.Debug|anycpu.Build.0 = Debug|anycpu
 		{B72B0459-91AA-4234-91CB-BA8462C59FE4}.Release|anycpu.ActiveCfg = Release|anycpu
 		{B72B0459-91AA-4234-91CB-BA8462C59FE4}.Release|anycpu.Build.0 = Release|anycpu
+		{0A038878-14EF-4E55-80AB-8ECE7815A249}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0A038878-14EF-4E55-80AB-8ECE7815A249}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0A038878-14EF-4E55-80AB-8ECE7815A249}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0A038878-14EF-4E55-80AB-8ECE7815A249}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,5 +88,7 @@ Global
 		{10B189C2-38DE-4658-8091-E19F5A336735} = {0D4901D7-2012-4C67-9D2D-820650592516}
 		{F0859CCC-D675-42D6-AE69-F12CFF872967} = {0D4901D7-2012-4C67-9D2D-820650592516}
 		{B72B0459-91AA-4234-91CB-BA8462C59FE4} = {0D4901D7-2012-4C67-9D2D-820650592516}
+		{9C25AAF6-D902-4B48-9389-2C3056ED243A} = {273D005C-7BB4-4109-BBB5-F7E3BFECA5FB}
+		{0A038878-14EF-4E55-80AB-8ECE7815A249} = {9C25AAF6-D902-4B48-9389-2C3056ED243A}
 	EndGlobalSection
 EndGlobal
