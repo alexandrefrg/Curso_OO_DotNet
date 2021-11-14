@@ -6,7 +6,14 @@ namespace exec_prop_2
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int number;
+
+            number = int.Parse(Console.ReadLine());
+
+            if(number % 2 == 0)
+                Console.WriteLine("PAR");
+            else
+                Console.WriteLine("IMPAR");
         }
     }
 }
