@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_6", "exercicios_p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_1", "exercicios_proposto\exec_estrutura_condicional\exec_prop_1\exec_prop_1.csproj", "{0A038878-14EF-4E55-80AB-8ECE7815A249}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_2", "exercicios_proposto\exec_estrutura_condicional\exec_prop_2\exec_prop2\exec_prop_2.csproj", "{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -71,6 +73,10 @@ Global
 		{0A038878-14EF-4E55-80AB-8ECE7815A249}.Debug|anycpu.Build.0 = Debug|anycpu
 		{0A038878-14EF-4E55-80AB-8ECE7815A249}.Release|anycpu.ActiveCfg = Release|anycpu
 		{0A038878-14EF-4E55-80AB-8ECE7815A249}.Release|anycpu.Build.0 = Release|anycpu
+		{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,5 +96,6 @@ Global
 		{F0859CCC-D675-42D6-AE69-F12CFF872967} = {3984DE77-0391-4244-8DB8-947A5FB99A51}
 		{B72B0459-91AA-4234-91CB-BA8462C59FE4} = {3984DE77-0391-4244-8DB8-947A5FB99A51}
 		{0A038878-14EF-4E55-80AB-8ECE7815A249} = {6428364B-89B8-46BA-A212-C0E58B417272}
+		{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D} = {6428364B-89B8-46BA-A212-C0E58B417272}
 	EndGlobalSection
 EndGlobal
