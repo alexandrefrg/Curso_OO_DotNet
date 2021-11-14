@@ -3,27 +3,45 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.11
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_fix_1", "exec_fix_1\exec_fix_1.csproj", "{2A62C260-6C8A-4B1E-BB54-7E3D21FDFE2E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercicios_fixacao", "exercicios_fixacao", "{92BA37EE-5D78-4567-87D1-F3E8F84958F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_fix_2", "exec_fix_2\exec_fix_2.csproj", "{3D47E3DE-43F0-4E34-AD96-6D28220EA25D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercicios_proposto", "exercicios_proposto", "{E5BD7DDC-3034-485D-BED3-E8F65FE20842}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicios_Fixacao", "Exercicios_Fixacao", "{7B8A01A8-2349-46C5-B449-21EB4431D13D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exec_estrutura_condicional", "exec_estrutura_condicional", "{6428364B-89B8-46BA-A212-C0E58B417272}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicios_Proposto", "Exercicios_Proposto", "{273D005C-7BB4-4109-BBB5-F7E3BFECA5FB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exec_estrutura_sequencial", "exec_estrutura_sequencial", "{3984DE77-0391-4244-8DB8-947A5FB99A51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_1", "exec_prop_1\exec_prop_1.csproj", "{A5723C25-5695-4A25-8240-268326A4F12E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_fix_1", "exercicios_fixacao\exec_fix_1\exec_fix_1.csproj", "{2A62C260-6C8A-4B1E-BB54-7E3D21FDFE2E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exec_Estrutura_Sequencial", "Exec_Estrutura_Sequencial", "{0D4901D7-2012-4C67-9D2D-820650592516}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_fix_2", "exercicios_fixacao\exec_fix_2\exec_fix_2.csproj", "{3D47E3DE-43F0-4E34-AD96-6D28220EA25D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_2", "exec_prop_1\exec_prop_2\exec_prop_2.csproj", "{B299CEE1-7CCC-4FD7-BA0C-1608AD731C61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_1", "exercicios_proposto\exec_estrutura_sequencial\exec_prop_1\exec_prop_1.csproj", "{A5723C25-5695-4A25-8240-268326A4F12E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_3", "exec_prop_1\exec_prop_3\exec_prop_3.csproj", "{5B3468AA-DF6E-4E82-87A2-4E32211786D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_2", "exercicios_proposto\exec_estrutura_sequencial\exec_prop_2\exec_prop_2.csproj", "{B299CEE1-7CCC-4FD7-BA0C-1608AD731C61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_4", "exec_prop_1\exec_prop_4\exec_prop_4.csproj", "{10B189C2-38DE-4658-8091-E19F5A336735}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_3", "exercicios_proposto\exec_estrutura_sequencial\exec_prop_3\exec_prop_3.csproj", "{5B3468AA-DF6E-4E82-87A2-4E32211786D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_5", "exec_prop_1\exec_prop_5\exec_prop_5.csproj", "{F0859CCC-D675-42D6-AE69-F12CFF872967}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_4", "exercicios_proposto\exec_estrutura_sequencial\exec_prop_4\exec_prop_4.csproj", "{10B189C2-38DE-4658-8091-E19F5A336735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_6", "exec_prop_1\exec_prop_6\exec_prop_6.csproj", "{B72B0459-91AA-4234-91CB-BA8462C59FE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_5", "exercicios_proposto\exec_estrutura_sequencial\exec_prop_5\exec_prop_5.csproj", "{F0859CCC-D675-42D6-AE69-F12CFF872967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_6", "exercicios_proposto\exec_estrutura_sequencial\exec_prop_6\exec_prop_6.csproj", "{B72B0459-91AA-4234-91CB-BA8462C59FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_1", "exercicios_proposto\exec_estrutura_condicional\exec_prop_1\exec_prop_1.csproj", "{0A038878-14EF-4E55-80AB-8ECE7815A249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_2", "exercicios_proposto\exec_estrutura_condicional\exec_prop_2\exec_prop2\exec_prop_2.csproj", "{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_3", "exercicios_proposto\exec_estrutura_condicional\exec_prop_3\exec_prop3\exec_prop_3.csproj", "{55985F1D-3578-41E1-A555-EB2A7A2F267C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_4", "exercicios_proposto\exec_estrutura_condicional\exec_prop_4\exec_prop4\exec_prop_4.csproj", "{8F9FF7BD-6046-4EC8-BDB8-B85C343B37AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_5", "exercicios_proposto\exec_estrutura_condicional\exec_prop_5\exec_prop5\exec_prop_5.csproj", "{905AB1C7-5F13-480D-B78B-076C77605A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_6", "exercicios_proposto\exec_estrutura_condicional\exec_prop_6\exec_prop6\exec_prop_6.csproj", "{17E6FDF5-7521-4949-ACED-E9E3FDD7D07E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_7", "exercicios_proposto\exec_estrutura_condicional\exec_prop_7\exec_prop7\exec_prop_7.csproj", "{25AF7A9A-50F4-40B1-90C4-8CCF24F73D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_prop_8", "exercicios_proposto\exec_estrutura_condicional\exec_prop_8\exec_prop8\exec_prop_8.csproj", "{63F89D7E-6E72-4190-9278-E408EDE3FA83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +81,38 @@ Global
 		{B72B0459-91AA-4234-91CB-BA8462C59FE4}.Debug|anycpu.Build.0 = Debug|anycpu
 		{B72B0459-91AA-4234-91CB-BA8462C59FE4}.Release|anycpu.ActiveCfg = Release|anycpu
 		{B72B0459-91AA-4234-91CB-BA8462C59FE4}.Release|anycpu.Build.0 = Release|anycpu
+		{0A038878-14EF-4E55-80AB-8ECE7815A249}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0A038878-14EF-4E55-80AB-8ECE7815A249}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0A038878-14EF-4E55-80AB-8ECE7815A249}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0A038878-14EF-4E55-80AB-8ECE7815A249}.Release|anycpu.Build.0 = Release|anycpu
+		{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D}.Release|anycpu.Build.0 = Release|anycpu
+		{55985F1D-3578-41E1-A555-EB2A7A2F267C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{55985F1D-3578-41E1-A555-EB2A7A2F267C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{55985F1D-3578-41E1-A555-EB2A7A2F267C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{55985F1D-3578-41E1-A555-EB2A7A2F267C}.Release|anycpu.Build.0 = Release|anycpu
+		{8F9FF7BD-6046-4EC8-BDB8-B85C343B37AC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8F9FF7BD-6046-4EC8-BDB8-B85C343B37AC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8F9FF7BD-6046-4EC8-BDB8-B85C343B37AC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8F9FF7BD-6046-4EC8-BDB8-B85C343B37AC}.Release|anycpu.Build.0 = Release|anycpu
+		{905AB1C7-5F13-480D-B78B-076C77605A54}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{905AB1C7-5F13-480D-B78B-076C77605A54}.Debug|anycpu.Build.0 = Debug|anycpu
+		{905AB1C7-5F13-480D-B78B-076C77605A54}.Release|anycpu.ActiveCfg = Release|anycpu
+		{905AB1C7-5F13-480D-B78B-076C77605A54}.Release|anycpu.Build.0 = Release|anycpu
+		{17E6FDF5-7521-4949-ACED-E9E3FDD7D07E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{17E6FDF5-7521-4949-ACED-E9E3FDD7D07E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{17E6FDF5-7521-4949-ACED-E9E3FDD7D07E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{17E6FDF5-7521-4949-ACED-E9E3FDD7D07E}.Release|anycpu.Build.0 = Release|anycpu
+		{25AF7A9A-50F4-40B1-90C4-8CCF24F73D8B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{25AF7A9A-50F4-40B1-90C4-8CCF24F73D8B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{25AF7A9A-50F4-40B1-90C4-8CCF24F73D8B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{25AF7A9A-50F4-40B1-90C4-8CCF24F73D8B}.Release|anycpu.Build.0 = Release|anycpu
+		{63F89D7E-6E72-4190-9278-E408EDE3FA83}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{63F89D7E-6E72-4190-9278-E408EDE3FA83}.Debug|anycpu.Build.0 = Debug|anycpu
+		{63F89D7E-6E72-4190-9278-E408EDE3FA83}.Release|anycpu.ActiveCfg = Release|anycpu
+		{63F89D7E-6E72-4190-9278-E408EDE3FA83}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -71,14 +121,23 @@ Global
 		SolutionGuid = {01C31A60-0898-4D59-9EFB-F5B0FD79DE56}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{2A62C260-6C8A-4B1E-BB54-7E3D21FDFE2E} = {7B8A01A8-2349-46C5-B449-21EB4431D13D}
-		{3D47E3DE-43F0-4E34-AD96-6D28220EA25D} = {7B8A01A8-2349-46C5-B449-21EB4431D13D}
-		{A5723C25-5695-4A25-8240-268326A4F12E} = {0D4901D7-2012-4C67-9D2D-820650592516}
-		{0D4901D7-2012-4C67-9D2D-820650592516} = {273D005C-7BB4-4109-BBB5-F7E3BFECA5FB}
-		{B299CEE1-7CCC-4FD7-BA0C-1608AD731C61} = {0D4901D7-2012-4C67-9D2D-820650592516}
-		{5B3468AA-DF6E-4E82-87A2-4E32211786D9} = {0D4901D7-2012-4C67-9D2D-820650592516}
-		{10B189C2-38DE-4658-8091-E19F5A336735} = {0D4901D7-2012-4C67-9D2D-820650592516}
-		{F0859CCC-D675-42D6-AE69-F12CFF872967} = {0D4901D7-2012-4C67-9D2D-820650592516}
-		{B72B0459-91AA-4234-91CB-BA8462C59FE4} = {0D4901D7-2012-4C67-9D2D-820650592516}
+		{6428364B-89B8-46BA-A212-C0E58B417272} = {E5BD7DDC-3034-485D-BED3-E8F65FE20842}
+		{3984DE77-0391-4244-8DB8-947A5FB99A51} = {E5BD7DDC-3034-485D-BED3-E8F65FE20842}
+		{2A62C260-6C8A-4B1E-BB54-7E3D21FDFE2E} = {92BA37EE-5D78-4567-87D1-F3E8F84958F1}
+		{3D47E3DE-43F0-4E34-AD96-6D28220EA25D} = {92BA37EE-5D78-4567-87D1-F3E8F84958F1}
+		{A5723C25-5695-4A25-8240-268326A4F12E} = {3984DE77-0391-4244-8DB8-947A5FB99A51}
+		{B299CEE1-7CCC-4FD7-BA0C-1608AD731C61} = {3984DE77-0391-4244-8DB8-947A5FB99A51}
+		{5B3468AA-DF6E-4E82-87A2-4E32211786D9} = {3984DE77-0391-4244-8DB8-947A5FB99A51}
+		{10B189C2-38DE-4658-8091-E19F5A336735} = {3984DE77-0391-4244-8DB8-947A5FB99A51}
+		{F0859CCC-D675-42D6-AE69-F12CFF872967} = {3984DE77-0391-4244-8DB8-947A5FB99A51}
+		{B72B0459-91AA-4234-91CB-BA8462C59FE4} = {3984DE77-0391-4244-8DB8-947A5FB99A51}
+		{0A038878-14EF-4E55-80AB-8ECE7815A249} = {6428364B-89B8-46BA-A212-C0E58B417272}
+		{FA16F0A3-3F57-4E3E-8444-F28DF6508B7D} = {6428364B-89B8-46BA-A212-C0E58B417272}
+		{55985F1D-3578-41E1-A555-EB2A7A2F267C} = {6428364B-89B8-46BA-A212-C0E58B417272}
+		{8F9FF7BD-6046-4EC8-BDB8-B85C343B37AC} = {6428364B-89B8-46BA-A212-C0E58B417272}
+		{905AB1C7-5F13-480D-B78B-076C77605A54} = {6428364B-89B8-46BA-A212-C0E58B417272}
+		{17E6FDF5-7521-4949-ACED-E9E3FDD7D07E} = {6428364B-89B8-46BA-A212-C0E58B417272}
+		{25AF7A9A-50F4-40B1-90C4-8CCF24F73D8B} = {6428364B-89B8-46BA-A212-C0E58B417272}
+		{63F89D7E-6E72-4190-9278-E408EDE3FA83} = {6428364B-89B8-46BA-A212-C0E58B417272}
 	EndGlobalSection
 EndGlobal
