@@ -79,9 +79,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cap4_exec_fix_2", "exercici
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cap4_exec_fix_3", "exercicios_fixacao\capitulo_4\cap4_exec_fix_3\cap4_exec_fix_3.csproj", "{51E5C9E5-F84E-4D12-AE33-F1F3DA91D20C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prim_exec_1", "primeiros_exercicios\prim_exec_1\prim_exec_1\prim_exec_1.csproj", "{2D230454-D0A1-4F11-9648-505A589DE4B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prim_exec_1", "primeiros_exercicios\prim_exec_1\prim_exec_1.csproj", "{2D230454-D0A1-4F11-9648-505A589DE4B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prim_exec_2", "primeiros_exercicios\prim_exec_2\prim_exec_2\prim_exec_2.csproj", "{31ADE62C-C786-4634-948D-99F76B3C10EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prim_exec_2", "primeiros_exercicios\prim_exec_2\prim_exec_2.csproj", "{31ADE62C-C786-4634-948D-99F76B3C10EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
