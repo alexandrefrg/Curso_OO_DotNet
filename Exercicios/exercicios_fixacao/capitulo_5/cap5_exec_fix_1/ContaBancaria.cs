@@ -2,6 +2,8 @@
 {
     public class ContaBancaria
     {
+        private const double WITHDRAW_TAX = 5;
+
         public int AccountNumber { get; private set; }
         public string AccountHolder { get; set; }
         public double AccountBalance { get; private set; }
@@ -25,7 +27,7 @@
 
         public void Withdraw(double withdrawValue)
         {
-            AccountBalance -= withdrawValue + 5;
+            AccountBalance -= withdrawValue + WITHDRAW_TAX;
         }
 
         public override string ToString()
