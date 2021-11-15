@@ -87,6 +87,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exec_membros_estaticos", "e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_mem_est_prop_1", "exercicios_proposto\exec_membros_estaticos\exec_mem_est_prop_1\exec_mem_est_prop_1\exec_mem_est_prop_1.csproj", "{F1BB776A-A8FE-4AFC-9184-2DD9674E0CB9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "capitulo_5", "capitulo_5", "{6D0472C3-1DEE-4F18-8429-07D4F3B86DAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cap5_exec_fix_1", "exercicios_fixacao\capitulo_5\cap5_exec_fix_1\cap5_exec_fix_1.csproj", "{CDDDD1FB-1C4E-4413-A316-C0556DBDE792}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -221,6 +225,10 @@ Global
 		{F1BB776A-A8FE-4AFC-9184-2DD9674E0CB9}.Debug|anycpu.Build.0 = Debug|anycpu
 		{F1BB776A-A8FE-4AFC-9184-2DD9674E0CB9}.Release|anycpu.ActiveCfg = Release|anycpu
 		{F1BB776A-A8FE-4AFC-9184-2DD9674E0CB9}.Release|anycpu.Build.0 = Release|anycpu
+		{CDDDD1FB-1C4E-4413-A316-C0556DBDE792}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CDDDD1FB-1C4E-4413-A316-C0556DBDE792}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CDDDD1FB-1C4E-4413-A316-C0556DBDE792}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CDDDD1FB-1C4E-4413-A316-C0556DBDE792}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -268,5 +276,7 @@ Global
 		{31ADE62C-C786-4634-948D-99F76B3C10EA} = {823447C7-C11C-4405-A6DE-1FAB4A42FF06}
 		{DF8270A1-A23E-41D1-8D5D-F050DD0BDC56} = {E5BD7DDC-3034-485D-BED3-E8F65FE20842}
 		{F1BB776A-A8FE-4AFC-9184-2DD9674E0CB9} = {DF8270A1-A23E-41D1-8D5D-F050DD0BDC56}
+		{6D0472C3-1DEE-4F18-8429-07D4F3B86DAE} = {92BA37EE-5D78-4567-87D1-F3E8F84958F1}
+		{CDDDD1FB-1C4E-4413-A316-C0556DBDE792} = {6D0472C3-1DEE-4F18-8429-07D4F3B86DAE}
 	EndGlobalSection
 EndGlobal
