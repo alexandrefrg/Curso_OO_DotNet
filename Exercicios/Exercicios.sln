@@ -67,6 +67,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_for_prop_6", "exercici
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exec_for_prop_7", "exercicios_proposto\exec_estrutura_for\exec_for_prop_7\exec_for_prop_7\exec_for_prop_7.csproj", "{58DA6521-52D6-4B38-88F1-C61FF2D2F173}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "primeiros_exercicios", "primeiros_exercicios", "{823447C7-C11C-4405-A6DE-1FAB4A42FF06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prim_exec_1", "primeiros_exercicios\prim_exec_1\prim_exec_1\prim_exec_1.csproj", "{2D230454-D0A1-4F11-9648-505A589DE4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prim_exec_2", "primeiros_exercicios\prim_exec_2\prim_exec_2\prim_exec_2.csproj", "{31ADE62C-C786-4634-948D-99F76B3C10EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -177,6 +183,14 @@ Global
 		{58DA6521-52D6-4B38-88F1-C61FF2D2F173}.Debug|anycpu.Build.0 = Debug|anycpu
 		{58DA6521-52D6-4B38-88F1-C61FF2D2F173}.Release|anycpu.ActiveCfg = Release|anycpu
 		{58DA6521-52D6-4B38-88F1-C61FF2D2F173}.Release|anycpu.Build.0 = Release|anycpu
+		{2D230454-D0A1-4F11-9648-505A589DE4B6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2D230454-D0A1-4F11-9648-505A589DE4B6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2D230454-D0A1-4F11-9648-505A589DE4B6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2D230454-D0A1-4F11-9648-505A589DE4B6}.Release|anycpu.Build.0 = Release|anycpu
+		{31ADE62C-C786-4634-948D-99F76B3C10EA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{31ADE62C-C786-4634-948D-99F76B3C10EA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{31ADE62C-C786-4634-948D-99F76B3C10EA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{31ADE62C-C786-4634-948D-99F76B3C10EA}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -215,5 +229,7 @@ Global
 		{D60E0A25-D182-4A5F-9E51-051E86CE11A7} = {678B97EE-509C-46ED-A819-89C9A6E4BD78}
 		{1DE7C99D-FC39-4534-8E4F-C8246072350F} = {678B97EE-509C-46ED-A819-89C9A6E4BD78}
 		{58DA6521-52D6-4B38-88F1-C61FF2D2F173} = {678B97EE-509C-46ED-A819-89C9A6E4BD78}
+		{2D230454-D0A1-4F11-9648-505A589DE4B6} = {823447C7-C11C-4405-A6DE-1FAB4A42FF06}
+		{31ADE62C-C786-4634-948D-99F76B3C10EA} = {823447C7-C11C-4405-A6DE-1FAB4A42FF06}
 	EndGlobalSection
 EndGlobal
