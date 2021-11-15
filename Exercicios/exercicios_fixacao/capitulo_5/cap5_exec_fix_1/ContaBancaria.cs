@@ -15,9 +15,9 @@
             AccountBalance = 0.0;
         }
 
-        public ContaBancaria(int accountNumber, string accountHolder, double accountBalance) : this(accountNumber, accountHolder)
+        public ContaBancaria(int accountNumber, string accountHolder, double initialDeposit) : this(accountNumber, accountHolder)
         {
-            AccountBalance = accountBalance;
+            Deposit(initialDeposit);
         }
 
         public void Deposit(double depositValue)
