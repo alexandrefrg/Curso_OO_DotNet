@@ -91,6 +91,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "capitulo_5", "capitulo_5", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cap5_exec_fix_1", "exercicios_fixacao\capitulo_5\cap5_exec_fix_1\cap5_exec_fix_1.csproj", "{CDDDD1FB-1C4E-4413-A316-C0556DBDE792}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "capitulo_6", "capitulo_6", "{5A6DE8CB-6D67-41BF-B744-D0AF731EF8A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cap6_exec_fix_1", "exercicios_fixacao\capitulo_6\cap6_exec_fix_1\cap6_exec_fix_1.csproj", "{12267E16-7807-4FC1-A7D9-33DCE1BB7CF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -229,6 +233,10 @@ Global
 		{CDDDD1FB-1C4E-4413-A316-C0556DBDE792}.Debug|anycpu.Build.0 = Debug|anycpu
 		{CDDDD1FB-1C4E-4413-A316-C0556DBDE792}.Release|anycpu.ActiveCfg = Release|anycpu
 		{CDDDD1FB-1C4E-4413-A316-C0556DBDE792}.Release|anycpu.Build.0 = Release|anycpu
+		{12267E16-7807-4FC1-A7D9-33DCE1BB7CF1}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{12267E16-7807-4FC1-A7D9-33DCE1BB7CF1}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{12267E16-7807-4FC1-A7D9-33DCE1BB7CF1}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{12267E16-7807-4FC1-A7D9-33DCE1BB7CF1}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -278,5 +286,7 @@ Global
 		{F1BB776A-A8FE-4AFC-9184-2DD9674E0CB9} = {DF8270A1-A23E-41D1-8D5D-F050DD0BDC56}
 		{6D0472C3-1DEE-4F18-8429-07D4F3B86DAE} = {92BA37EE-5D78-4567-87D1-F3E8F84958F1}
 		{CDDDD1FB-1C4E-4413-A316-C0556DBDE792} = {6D0472C3-1DEE-4F18-8429-07D4F3B86DAE}
+		{5A6DE8CB-6D67-41BF-B744-D0AF731EF8A6} = {92BA37EE-5D78-4567-87D1-F3E8F84958F1}
+		{12267E16-7807-4FC1-A7D9-33DCE1BB7CF1} = {5A6DE8CB-6D67-41BF-B744-D0AF731EF8A6}
 	EndGlobalSection
 EndGlobal
