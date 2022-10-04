@@ -95,6 +95,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "capitulo_6", "capitulo_6", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cap6_exec_fix_1", "exercicios_fixacao\capitulo_6\cap6_exec_fix_1\cap6_exec_fix_1.csproj", "{12267E16-7807-4FC1-A7D9-33DCE1BB7CF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cap6_exec_fix_2", "exercicios_fixacao\capitulo_6\cap6_exec_fix_2\cap6_exec_fix_2.csproj", "{EE4AA067-1FAE-43CE-A9A8-DCF2A29CCC7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -237,6 +239,10 @@ Global
 		{12267E16-7807-4FC1-A7D9-33DCE1BB7CF1}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{12267E16-7807-4FC1-A7D9-33DCE1BB7CF1}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{12267E16-7807-4FC1-A7D9-33DCE1BB7CF1}.Release|anycpu.Build.0 = Release|Any CPU
+		{EE4AA067-1FAE-43CE-A9A8-DCF2A29CCC7A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EE4AA067-1FAE-43CE-A9A8-DCF2A29CCC7A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EE4AA067-1FAE-43CE-A9A8-DCF2A29CCC7A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EE4AA067-1FAE-43CE-A9A8-DCF2A29CCC7A}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -288,5 +294,6 @@ Global
 		{CDDDD1FB-1C4E-4413-A316-C0556DBDE792} = {6D0472C3-1DEE-4F18-8429-07D4F3B86DAE}
 		{5A6DE8CB-6D67-41BF-B744-D0AF731EF8A6} = {92BA37EE-5D78-4567-87D1-F3E8F84958F1}
 		{12267E16-7807-4FC1-A7D9-33DCE1BB7CF1} = {5A6DE8CB-6D67-41BF-B744-D0AF731EF8A6}
+		{EE4AA067-1FAE-43CE-A9A8-DCF2A29CCC7A} = {5A6DE8CB-6D67-41BF-B744-D0AF731EF8A6}
 	EndGlobalSection
 EndGlobal
